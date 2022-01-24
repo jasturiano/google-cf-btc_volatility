@@ -1,0 +1,5 @@
+google-cloud-storage
+wget
+pandas
+numpy
+pandas_gbq
